@@ -267,6 +267,11 @@ nav .inner ul li a:hover {
   text-align:center;
 }
 
+.shop-info h1{
+  font-size:25px;
+  letter-spacing:2px;
+}
+
 .shop-img{
   margin-top:20px;
 }
